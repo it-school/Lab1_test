@@ -17,6 +17,7 @@ namespace Lab1_test
                 Console.WriteLine((n * k) % 24 + 1);
         }
 
+
         static double kvadrat(double number)
         {
             // return number * number;
